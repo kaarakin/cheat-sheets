@@ -4,6 +4,10 @@
 
     git remote add origin url
 
+Просмотр удаленных репозиториев:
+    
+    git remote -v
+
 Просмотр веток удаленного репозитория:
 
     git branch -r
